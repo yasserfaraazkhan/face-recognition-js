@@ -1,0 +1,40 @@
+{
+  "name": "face-recognition-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasserfaraazkhan/face-recognition-js.git"
+  },
+  "keywords": [
+    "gender recognition",
+    "age recognition",
+    "face detection",
+    "emotion-recognition",
+    "tensorflow",
+    "ai",
+    "artificial Intelligence",
+    "javascript",
+    "js",
+    "face",
+    "recognition"
+  ],
+  "author": "yasser khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasserfaraazkhan/face-recognition-js/issues"
+  },
+  "homepage": "https://github.com/yasserfaraazkhan/face-recognition-js#readme",
+  "devDependencies": {
+    "face-api.js": "^0.22.2",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
